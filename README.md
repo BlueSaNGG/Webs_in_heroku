@@ -3,7 +3,7 @@ Two webs built by Flask , Run in heroku
 
 
 Data collector:  
-https://bluesan.herokuapp.com/submit  
+https://bluesan.herokuapp.com/ 
 Intro:  
 Enter an Email address and Height (in cm), the Email address entered will recieve an email, shows the height data we already collected.  
 
