@@ -1,0 +1,4 @@
+Data collector:
+https://bluesan.herokuapp.com/submit
+Suepr geocoder:
+https://bluesandata.herokuapp.com/
